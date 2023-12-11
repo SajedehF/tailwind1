@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 
-.hamburgure{
+/* .hamburgure{
     cursor: pointer;
     width: 24px;
     height: 24px;
@@ -28,4 +28,4 @@
 }
 .hamburgure-bottom{
     transform: translateY(14px);
-}
+} */
