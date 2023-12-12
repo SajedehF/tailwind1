@@ -1298,6 +1298,14 @@ video {
     height: 100%;
   }
 
+  .md\:h-auto {
+    height: auto;
+  }
+
+  .md\:h-\[30\%\] {
+    height: 30%;
+  }
+
   .md\:w-1\/2 {
     width: 50%;
   }
@@ -1320,6 +1328,10 @@ video {
 
   .md\:w-\[60\%\] {
     width: 60%;
+  }
+
+  .md\:w-\[80\%\] {
+    width: 80%;
   }
 
   .md\:flex-row {
@@ -1369,6 +1381,11 @@ video {
   .md\:py-10 {
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
+  }
+
+  .md\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 
   .md\:text-left {
