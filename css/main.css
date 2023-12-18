@@ -568,9 +568,9 @@ video {
   }
 }
 
-@media (min-width: 1900px) {
+@media (min-width: 1600px) {
   .container {
-    max-width: 1900px;
+    max-width: 1600px;
   }
 }
 
@@ -590,78 +590,6 @@ video {
   bottom: 1.5rem;
 }
 
-.top-3 {
-  top: 0.75rem;
-}
-
-.top-\[\] {
-  top: ;
-}
-
-.top-\[6\.5rem\] {
-  top: 6.5rem;
-}
-
-.top-\[6rem\] {
-  top: 6rem;
-}
-
-.bottom-0 {
-  bottom: 0px;
-}
-
-.top-0 {
-  top: 0px;
-}
-
-.top-5 {
-  top: 1.25rem;
-}
-
-.top-10 {
-  top: 2.5rem;
-}
-
-.top-20 {
-  top: 5rem;
-}
-
-.top-24 {
-  top: 6rem;
-}
-
-.top-2 {
-  top: 0.5rem;
-}
-
-.top-28 {
-  top: 7rem;
-}
-
-.top-\[6\.5\] {
-  top: 6.5;
-}
-
-.top-\[6\.rem\] {
-  top: 6.rem;
-}
-
-.top-\[6\.7rem\] {
-  top: 6.7rem;
-}
-
-.top-\[7rem\] {
-  top: 7rem;
-}
-
-.top-\[9rem\] {
-  top: 9rem;
-}
-
-.top-8 {
-  top: 2rem;
-}
-
 .z-10 {
   z-index: 10;
 }
@@ -679,11 +607,6 @@ video {
 .my-5 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
-}
-
-.mx-0 {
-  margin-left: 0px;
-  margin-right: 0px;
 }
 
 .mb-12 {
@@ -724,30 +647,6 @@ video {
 
 .mt-\[40px\] {
   margin-top: 40px;
-}
-
-.ml-10 {
-  margin-left: 2.5rem;
-}
-
-.ml-1 {
-  margin-left: 0.25rem;
-}
-
-.ml-5 {
-  margin-left: 1.25rem;
-}
-
-.ml-14 {
-  margin-left: 3.5rem;
-}
-
-.ml-16 {
-  margin-left: 4rem;
-}
-
-.mt-\[\] {
-  margin-top: ;
 }
 
 .box-border {
@@ -815,14 +714,6 @@ video {
   height: 100%;
 }
 
-.h-\[\] {
-  height: ;
-}
-
-.h-\[100\%\] {
-  height: 100%;
-}
-
 .w-2\/3 {
   width: 66.666667%;
 }
@@ -854,38 +745,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-\[33\.5rem\] {
-  width: 33.5rem;
-}
-
-.w-\[90\(\)\] {
-  width: 90();
-}
-
-.w-\[90\] {
-  width: 90;
-}
-
-.w-\[90\%\] {
-  width: 90%;
-}
-
-.w-\[80\] {
-  width: 80;
-}
-
-.w-\[80\%\] {
-  width: 80%;
-}
-
-.w-\[22rem\] {
-  width: 22rem;
 }
 
 .transform {
@@ -987,10 +846,6 @@ video {
   border-color: rgb(229 231 235 / var(--tw-divide-opacity));
 }
 
-.break-keep {
-  word-break: keep-all;
-}
-
 .rounded-3xl {
   border-radius: 1.5rem;
 }
@@ -1087,23 +942,6 @@ video {
   padding: 1.5rem;
 }
 
-.p-20 {
-  padding: 5rem;
-}
-
-.p-24 {
-  padding: 6rem;
-}
-
-.p-2 {
-  padding: 0.5rem;
-}
-
-.px-10 {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-}
-
 .px-24 {
   padding-left: 6rem;
   padding-right: 6rem;
@@ -1195,16 +1033,12 @@ video {
   padding-top: 0.5rem;
 }
 
-.pt-20 {
-  padding-top: 5rem;
+.pt-24 {
+  padding-top: 6rem;
 }
 
 .pt-7 {
   padding-top: 1.75rem;
-}
-
-.pt-24 {
-  padding-top: 6rem;
 }
 
 .text-center {
@@ -1429,10 +1263,6 @@ video {
   .sm\:w-1\/2 {
     width: 50%;
   }
-
-  .sm\:flex-col {
-    flex-direction: column;
-  }
 }
 
 @media (min-width: 768px) {
@@ -1622,26 +1452,6 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .lg\:top-24 {
-    top: 6rem;
-  }
-
-  .lg\:top-20 {
-    top: 5rem;
-  }
-
-  .lg\:top-10 {
-    top: 2.5rem;
-  }
-
-  .lg\:top-5 {
-    top: 1.25rem;
-  }
-
-  .lg\:top-2 {
-    top: 0.5rem;
-  }
-
   .lg\:top-1 {
     top: 0.25rem;
   }
@@ -1702,18 +1512,6 @@ video {
     width: 100%;
   }
 
-  .lg\:w-\[33\.5rem\] {
-    width: 33.5rem;
-  }
-
-  .lg\:w-\[\] {
-    width: ;
-  }
-
-  .lg\:w-\[42rem\] {
-    width: 42rem;
-  }
-
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1730,10 +1528,6 @@ video {
     justify-content: flex-end;
   }
 
-  .lg\:justify-center {
-    justify-content: center;
-  }
-
   .lg\:justify-between {
     justify-content: space-between;
   }
@@ -1748,10 +1542,6 @@ video {
 
   .lg\:gap-5 {
     gap: 1.25rem;
-  }
-
-  .lg\:p-24 {
-    padding: 6rem;
   }
 
   .lg\:px-4 {
@@ -1792,20 +1582,16 @@ video {
 }
 
 @media (min-width: 1440px) {
-  .xl\:w-\[55\%\] {
-    width: 55%;
-  }
-
-  .xl\:w-\[65\%\] {
-    width: 65%;
-  }
-
   .xl\:w-\[33\.5rem\] {
     width: 33.5rem;
   }
 
   .xl\:w-\[45rem\] {
     width: 45rem;
+  }
+
+  .xl\:w-\[65\%\] {
+    width: 65%;
   }
 
   .xl\:px-12 {
@@ -1829,15 +1615,7 @@ video {
   }
 }
 
-@media (min-width: 1900px) {
-  .xxl\:w-\[55\%\] {
-    width: 55%;
-  }
-
-  .xxl\:w-\[45\] {
-    width: 45;
-  }
-
+@media (min-width: 1600px) {
   .xxl\:w-\[45rem\] {
     width: 45rem;
   }
